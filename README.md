@@ -45,7 +45,7 @@ me.say_hi()
 
 ---
 <div class="inline-block">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" height="250"/>
-  <img src="https://mikeaparicio.com/images/fullstackdeveloper.gif" width="480"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" height="230"/>
+  <img src="https://mikeaparicio.com/images/fullstackdeveloper.gif" height="230"/>
 </div>
 
