@@ -39,3 +39,13 @@ me.say_hi()
 ```
 
 #### You can reach me at [dev.to/romanutti](https://dev.to/romanutti)
+
+<br/><br/>
+<br/><br/>
+
+---
+<div class="inline-block">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" height="250"/>
+  <img src="https://mikeaparicio.com/images/fullstackdeveloper.gif" width="480"/>
+</div>
+
